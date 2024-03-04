@@ -74,16 +74,6 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/* added two new clases and displaed them in inline */
-
-.benefit{
-    display: inline;
-}
-
-.interests{
-    display: inline;
-}
-
 
 
 .benefits {
