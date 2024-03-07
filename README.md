@@ -16,7 +16,7 @@ This webpage is for Horiseon Marketing group. The page is best used to inform ot
 
 Visit the webpage to use : https://aakabia.github.io/Challenge1/
 
-![alt text](assets/01-html-css-git-homework-demo.png)
+![Screen shot of project](Assets/01-html-css-git-homework-demo.png)
 
 ## Credits:
 
