@@ -14,7 +14,7 @@ N/A
 
 This webpage is for Horiseon Marketing group. The page is best used to inform others about the benefits of search engine optimization, online reputation management and social media marketing.
 
-Visit the webpage to use :
+Visit the webpage to use : https://aakabia.github.io/Challenge1/
 
 ![alt text](assets/01-html-css-git-homework-demo.png)
 
